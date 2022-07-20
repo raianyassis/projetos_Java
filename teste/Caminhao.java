@@ -5,6 +5,7 @@ package dio.teste;
  */
  
 
-public class Carro extends Veiculo {
+public class Caminhao extends Veiculo {
 
 }
+
